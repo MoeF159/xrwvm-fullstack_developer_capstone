@@ -11,3 +11,5 @@ Jan 21, 2026
 Jan 24, 2026
 - created the view and funcationality of the registration page
 - created endpoints for fetching reviews and dealers
+- Created the CarModel and CarMake Django Models and populated them
+- Linked the new models to the admin site
