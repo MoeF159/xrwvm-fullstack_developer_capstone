@@ -7,3 +7,6 @@ Jan 21, 2026
 - Fixed 'CSRF verification failed. Request aborted' error when posting to the admin site.
 - Created the Login View and enabled Authentication of users
 - Enabled Logout of users
+
+Jan 24, 2026
+- created the view and funcationality of the registration page
