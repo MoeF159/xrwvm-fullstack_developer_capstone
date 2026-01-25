@@ -17,7 +17,7 @@ def get_cars(request):
         initiate()
     car_models = CarModel.objects.select_related('car_make')
     cars = [
-        {"CarModel": cm.name, "CarMake": cm.car_make.name} 
+        {"CarModel": cm.name, "CarMake": cm.car_make.name}
         for cm in car_models
     ]
     return JsonResponse({"CarModels": cars})
