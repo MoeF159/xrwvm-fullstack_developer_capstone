@@ -7,6 +7,7 @@ from django.contrib import messages
 from datetime import datetime
 from django.contrib.auth import login, authenticate
 
+from .restapis import get_request, analyze_review_sentiments, post_review
 import logging
 import json
 from django.views.decorators.csrf import csrf_exempt

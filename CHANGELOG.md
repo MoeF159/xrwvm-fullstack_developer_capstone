@@ -12,4 +12,8 @@ Jan 24, 2026
 - created the view and funcationality of the registration page
 - created endpoints for fetching reviews and dealers
 - Created the CarModel and CarMake Django Models, populated them, and linked the new models to the admin site
-- Created django proxy services of backend API's for Backend API
+- Created django proxy services of backend API's for Backend API 
+
+Jan 25, 2026
+- fixed minor issues with url fetching
+- added dealerships in a table view
