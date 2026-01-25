@@ -17,3 +17,4 @@ Jan 24, 2026
 Jan 25, 2026
 - fixed minor issues with url fetching
 - added dealerships in a table view
+- Created Dockerfile, entrypoint.sh, and deployment.yaml for containerization
